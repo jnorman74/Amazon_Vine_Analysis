@@ -33,7 +33,7 @@ The task was to chose a dataset from the Amazon Vine program and use PySpark to 
 
 - The percentage of Vine reviews that were five start was 0.00703% and non Vine was 69%.
 
-![5 Star Reviews:](resources/vine_percents.png)
+![5 Star Reviews:](resources/vine_percents.PNG)
 
 ## Summary
 
