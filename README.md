@@ -1,5 +1,7 @@
 # Amazon Vine Analysis
 
+![Banner:](resources/OIP.jpg)
+
 ## Overview of the Analysis
 
 The task was to chose a dataset from the Amazon Vine program and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Then using PySpark, determining if there is any bias toward favourable reviews from Vine members in the dataset. The dataset I used for this project was Music.
